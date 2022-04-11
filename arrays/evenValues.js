@@ -18,7 +18,6 @@ myArray.forEach(function(num) {
 });
 
 // With a for loop
-
 for (let i = 0; i < myArray.length; i += 1) {
   if(myArray[i] % 2 === 0) {
     console.log(myArray[i]);
